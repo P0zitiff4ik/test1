@@ -51,8 +51,8 @@
     <entry name="dial_escape_plus">0</entry>
   </section>
   <section name="auth_info_0">
-    <entry name="username">228</entry>
-    <entry name="userid">228</entry>
+    <entry name="username">228@sip06.zoon.ru</entry>
+    <entry name="userid">228@sip06.zoon.ru</entry>
     <entry name="passwd">ST5PdT9X</entry>
     <entry name="realm">sip06.zoon.ru</entry>
   </section>
